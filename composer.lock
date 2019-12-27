@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b80c90ae09318a19f738e6049c18bee1",
+    "content-hash": "732859697a2308b42b1b0e0294bf4029",
     "packages": [
         {
             "name": "colinmollenhour/credis",
@@ -414,6 +414,7 @@
             ],
             "description": "Promoting the interoperability of container objects (DIC, SL, etc.)",
             "homepage": "https://github.com/container-interop/container-interop",
+            "abandoned": "psr/container",
             "time": "2017-02-14T19:40:03+00:00"
         },
         {
@@ -5130,12 +5131,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bitExpert/phpstan-magento.git",
-                "reference": "bddd2489b52b01436380954ce1a37278489fb04d"
+                "reference": "f7af124510d01cb7324026eb7f78633ed5790f8f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bitExpert/phpstan-magento/zipball/bddd2489b52b01436380954ce1a37278489fb04d",
-                "reference": "bddd2489b52b01436380954ce1a37278489fb04d",
+                "url": "https://api.github.com/repos/bitExpert/phpstan-magento/zipball/f7af124510d01cb7324026eb7f78633ed5790f8f",
+                "reference": "f7af124510d01cb7324026eb7f78633ed5790f8f",
                 "shasum": ""
             },
             "require": {
@@ -5178,7 +5179,7 @@
                 }
             ],
             "description": "PHPStan Magento Extension",
-            "time": "2019-08-14T11:21:53+00:00"
+            "time": "2019-11-14T10:53:43+00:00"
         },
         {
             "name": "captainhook/captainhook",
